@@ -1,0 +1,17 @@
+{
+  "name": "quickmigrate",
+  "version": "1.0.0",
+  "description": "Quick Migrate CLI",
+  "main": "quickmigrate.js",
+  "bin": {
+    "quickmigrate": "./quickmigrate.js"
+  },
+  "scripts": {
+    "start": "node quickmigrate.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "commander": "^9.0.0"
+  },
+  "devDependencies": {}
+}

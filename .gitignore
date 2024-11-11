@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configuration files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package distribution
+dist/
+build/
+
+# Migration config file (if sensitive information is saved)
+migrationConfig.json
