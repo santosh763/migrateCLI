@@ -2,7 +2,6 @@
   "name": "quickmigrate",
   "version": "1.0.0",
   "description": "Quick Migrate CLI",
-  "main": "quickmigrate.js",
   "bin": {
     "quickmigrate": "./quickmigrate.js"
   },
