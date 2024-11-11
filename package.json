@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Quick Migrate CLI",
   "bin": {
-    "quickmigrate": "./quickmigrate.js"
+    "quickmigrate": "./index.js"
   },
   "scripts": {
-    "start": "node quickmigrate.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "inquirer": "^8.2.4",
